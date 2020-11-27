@@ -3417,10 +3417,10 @@ node-preload@^0.2.1:
   dependencies:
     process-on-spawn "^1.0.0"
 
-node@^13.13.0:
-  version "13.13.0"
-  resolved "https://registry.yarnpkg.com/node/-/node-13.13.0.tgz#5138b94de149b7ddfddb18f8691d4a00f5761f2f"
-  integrity sha512-Ptccrn5A3D3EEZ4xTC9HNhCro2KzCF1j6rCgeczFFe1A6Y0HclzbRHw0OxsEjAZcgvmgzN3OIxZpAIkkNe8LTw==
+node@^15.2.1:
+  version "15.2.1"
+  resolved "https://registry.yarnpkg.com/node/-/node-15.2.1.tgz#7094deb3411b484e55ab84e0e3e69284620f0665"
+  integrity sha512-VaElWfF9c7Gmhq7Y1v+UXp/TRm6IcIb7isJukhtl1AMO5HiVV5b35pPjerfbpQ2478nQUPQu8QnD/eV/ZlNWcA==
   dependencies:
     node-bin-setup "^1.0.0"
 
